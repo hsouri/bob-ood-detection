@@ -59,7 +59,7 @@ If required, please refer to [Get Started](https://github.com/hsouri/bob-detecti
 
 ## Usage
 
-The config files for all experiments in <strong>Battle of the Backbones (BoB)</strong> can be found [configs/bob_sim2real](https://github.com/hsouri/bob-detection/tree/master/configs/bob_sim2real).
+The config files for all experiments in <strong>Battle of the Backbones (BoB)</strong> can be found [configs/bob_sim2real](https://github.com/hsouri/bob-ood-detection/tree/master/configs/bob_sim2real).
 
 To train a detector with the existing configs, run:
 
