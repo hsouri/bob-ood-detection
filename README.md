@@ -53,7 +53,7 @@ python dataset_utils/sim10k_voc2coco_format.py \
 
 Download the <a href="https://www.cityscapes-dataset.com/downloads/">Cityscapes</a> dataset.
 
-Once processed, update the path to individual datasets in the experiment configs at [configs/bob_sim2real](https://github.com/hsouri/bob-ood-detection/tree/main/configs/bob_sim2real).
+Once processed, update the path to individual datasets in the experiment configs at [configs/bob_sim2real](https://github.com/hsouri/bob-ood-detection/tree/master/configs/bob_sim2real).
 
 If required, please refer to [Get Started](https://github.com/hsouri/bob-detection/blob/master/docs/en/get_started.md), [Dataset Prepare](https://mmdetection.readthedocs.io/en/latest/user_guides/dataset_prepare.html?highlight=dataset), and [Dataset Download](https://mmdetection.readthedocs.io/en/latest/user_guides/useful_tools.html#dataset-download) for more detailed instructions.
 
